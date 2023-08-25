@@ -5,12 +5,12 @@
 
   <p>
     <strong>Site URL » </strong>
-    <a href="https://sushant0802.github.io/word_count/"> sushant0802.github.io/word_count</a>
+    <a href="https://ameyswami35.github.io/word_counters/"> ameyswami35.github.io/word_counters</a>
     <br />
     ·
-    <a href="https://github.com/sushant0802/word_count/issues">Report Bug</a>
+    <a href="https://ameyswami35.github.io/word_counters/">Report Bug</a>
     ·
-    <a href="https://github.com/sushant0802/word_count/issues">Request Feature</a>
+    <a href="https://ameyswami35.github.io/word_counters/">Request Feature</a>
   </p>
 </p>
 
